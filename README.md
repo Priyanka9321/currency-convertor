@@ -16,7 +16,7 @@ You can access the live demo: [https://currencyexchangepro.netlify.app/]
 
 ## Screenshots
 
-![Screenshot (241)](https://github.com/Priyanka9321/currency-convertor/assets/91218634/e815e1eb-d62a-41a5-895d-ebcd119a331a)
+![Screenshot (241)](https://github.com/Priyanka9321/currency-convertor/assets/91218634/0e97e215-d084-4253-bd75-d83c664101a5)
 
 ## Getting Started
 
