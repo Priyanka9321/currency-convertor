@@ -10,9 +10,9 @@ This is a Currency Converter web application built using React and Vite. The app
 - Simple and intuitive user interface
 - Fast performance with Vite
 
-## Demo
+## Live Demo
 
-You can access the live demo: [https://currencyexchangepro.netlify.app/]
+Check out the live demo [here](https://currencyexchangepro.netlify.app).
 
 ## Screenshots
 
